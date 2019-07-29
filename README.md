@@ -33,10 +33,14 @@ Database file
   book.php(JSON Format)
   
   
+  
+  
 This whole System follow MVC Architecture
 
 Model (Database)
-View (firstpage.php) 
+
+View (firstpage.php)
+
 Controller (controller.js)
 
   
