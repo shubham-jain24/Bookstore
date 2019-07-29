@@ -1,0 +1,1 @@
+var flag = angular.module("myapp",[]);
