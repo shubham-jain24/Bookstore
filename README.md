@@ -30,18 +30,18 @@ Font Used
   
 Database file
   
-  book.php(JSON Format)
+  	book.php(JSON Format)
   
   
   
   
 This whole System follow MVC Architecture
 
-Model (Database)
+	Model (Database)
 
-View (firstpage.php)
+	View (firstpage.php)
 
-Controller (controller.js)
+	Controller (controller.js)
 
   
 
